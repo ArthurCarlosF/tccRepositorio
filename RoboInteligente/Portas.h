@@ -82,8 +82,8 @@ void lerSensores() {
 
 }
 void gerarComandosAleatorios() {
-  int minAng=-90;//Menor angulo de variacao
-  int maxAng=90;//Maior angulo de variacao
+  int minAng=0;//Menor angulo de variacao
+  int maxAng=0;//Maior angulo de variacao
   int menorTempo=1;
   int maiorTempo=200;
 
