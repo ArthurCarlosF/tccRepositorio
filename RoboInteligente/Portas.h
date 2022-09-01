@@ -13,7 +13,9 @@ long int tempo = 0;
 int estadosMotores[12] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}; //Estados atuais dos motores
 int comandosMotores[12] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}; //Comandos atuais para os motores
 float sensores[8] = {0, 0, 0, 0, 0, 0,0,0 }; //Medicoes dos sensores{EIX,EIY,EIZ,EAX,EAY,EAZ,ED}
-int delayMotores[12] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}; //Comandos atuais para os motores
+float angulo[3]={0,0,0};
+float posicao[3]={0,0,0};
+int delayMotores=0 ; //Comandos atuais para os motores
 //MÉTODO RESPONSÁVEL POR CALCULAR A DISTÂNCIA USANDO O SENSOR ULTRASSONICO HCSR-04
 void hcsr04() {
 
@@ -27,10 +29,12 @@ void lerServos(){
   }
 }
 void comandarServos(){
+  
   for(int i=0;i<12;i++){
-    delay(delayMotores[i]);
+    
     servos[i].write(comandosMotores[i]);
   }
+  delay(delayMotores);
 }
 const int MPU=0x68;  
 void lerGiroscopioAcelerometro(){
@@ -82,19 +86,40 @@ void lerGiroscopioAcelerometro(){
 //  Serial.println("");
 //  delay(500);
 //fim
- 
-  sensores[0]=g.gyro.x;
-  sensores[1]=g.gyro.y;
-  sensores[2]=g.gyro.z;
-  sensores[3]=a.acceleration.x;
-  sensores[4]=a.acceleration.y;
-  sensores[5]=a.acceleration.z;
+
+
+
+float pi=3.14159265359;
+float radToDeg=180.00000/pi;
+
+
+
+  sensores[0]=(g.gyro.x+0.151155351-(6.000/radToDeg))*radToDeg;
+  sensores[1]=(g.gyro.y+(-0.014556962))*radToDeg;
+  sensores[2]=(g.gyro.z+(-0.020506329))*radToDeg;
+  sensores[3]=(a.acceleration.x)+0.197531646;
+  sensores[4]=(a.acceleration.y)+1.222341772;
+  sensores[5]=(a.acceleration.z)+10.36518987;
   sensores[6]=temp.temperature;
  
   //Aguarda 300 ms e reinicia o processo
  // delay(300);
 }
-
+float tempoInicial=0;
+void obterAngulos(){
+//  float tempoAtual=float(millis())/1000.00;
+//
+//  float tempoCorrido=tempoAtual-tempoInicial;
+//  angulo[0]+=sensores[0]*tempoCorrido;
+//  angulo[1]+=sensores[1]*tempoCorrido;
+//  angulo[2]+=sensores[2]*tempoCorrido;
+//  
+//
+//  posicao[0]+=sensores[3]*tempoCorrido;
+//  posicao[1]+=sensores[4]*tempoCorrido;
+//  posicao[2]+=sensores[5]*tempoCorrido;
+//  tempoInicial=tempoAtual;
+}
 void lerSensores() {
   #define debug false
 
@@ -113,11 +138,11 @@ void lerSensores() {
     Serial.println("Lendo giroscopio e acelerometro");
   }
   lerGiroscopioAcelerometro();
-
+  obterAngulos();
 }
 void gerarComandosAleatorios() {
-  int minAng=0;//Menor angulo de variacao
-  int maxAng=0;//Maior angulo de variacao
+  int minAng=-20;//Menor angulo de variacao
+  int maxAng=20;//Maior angulo de variacao
   int menorTempo=1;
   int maiorTempo=200;
 
@@ -125,8 +150,8 @@ int posicaoEstavel[12]={90,90,90,90,90,90,90,90,90,90,90,90};
  for(int i=0;i<12;i++){
     comandosMotores[i]=posicaoEstavel[i]+random(minAng, maxAng);
     //construir função que gera delay
-    delayMotores[i]=random(menorTempo, maiorTempo);
+    
   }
 
-  
+  delayMotores=random(menorTempo, maiorTempo);
 }
