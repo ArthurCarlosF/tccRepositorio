@@ -30,7 +30,10 @@ long int contaLoops=0;
         Serial.print(" ");
       }
 
-   
+      for (int i = 0; i < 3; i++) {
+        Serial.print(angulo[i]);
+        Serial.print(" ");
+      }
       Serial.println();
     }
 
@@ -167,6 +170,8 @@ mpu.setAccelerometerRange(MPU6050_RANGE_8_G);
   Serial.println("");
   delay(100);
   Serial.println("Robo Inteligente Iniciado");
+  mpu6050.begin();
+  mpu6050.calcGyroOffsets(true);
   modoColherDados.Setup();
 }
 

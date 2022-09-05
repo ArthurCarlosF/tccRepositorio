@@ -5,6 +5,7 @@
 #include <Adafruit_MPU6050.h>
 Adafruit_MPU6050 mpu;
 Ultrasonic ultrasonic(pino_trigger, pino_echo);
+#include <MPU6050_tockn.h>
 Servo servos[12];
 
 long int tempo = 0;
@@ -28,13 +29,14 @@ void lerServos(){
     estadosMotores[i]=servos[i].read();
   }
 }
+void Delay(long int tempoDelay);
 void comandarServos(){
   
   for(int i=0;i<12;i++){
     
     servos[i].write(comandosMotores[i]);
   }
-  delay(delayMotores);
+  Delay(delayMotores);
 }
 const int MPU=0x68;  
 void lerGiroscopioAcelerometro(){
@@ -105,20 +107,28 @@ float radToDeg=180.00000/pi;
   //Aguarda 300 ms e reinicia o processo
  // delay(300);
 }
-float tempoInicial=0;
+MPU6050 mpu6050(Wire);
 void obterAngulos(){
-//  float tempoAtual=float(millis())/1000.00;
-//
-//  float tempoCorrido=tempoAtual-tempoInicial;
-//  angulo[0]+=sensores[0]*tempoCorrido;
-//  angulo[1]+=sensores[1]*tempoCorrido;
-//  angulo[2]+=sensores[2]*tempoCorrido;
-//  
-//
-//  posicao[0]+=sensores[3]*tempoCorrido;
-//  posicao[1]+=sensores[4]*tempoCorrido;
-//  posicao[2]+=sensores[5]*tempoCorrido;
-//  tempoInicial=tempoAtual;
+  #define offsetX -174.20
+  #define offsetY 168.00
+  #define offsetZ -2.35
+    
+  mpu6050.update();
+  angulo[0]=mpu6050.getAngleX()-offsetX;
+  angulo[1]=mpu6050.getAngleY()-offsetY;
+  angulo[2]=mpu6050.getAngleZ()-offsetZ;
+  
+    
+
+}
+void lerSensores();
+void Delay(long int tempoDelay){
+long int tempoInicioDelay=millis();
+
+while((millis()-tempoInicioDelay)<tempoDelay){
+  lerSensores();
+}
+  
 }
 void lerSensores() {
   #define debug false
@@ -141,8 +151,8 @@ void lerSensores() {
   obterAngulos();
 }
 void gerarComandosAleatorios() {
-  int minAng=-5;//Menor angulo de variacao
-  int maxAng=5;//Maior angulo de variacao
+  int minAng=0;//Menor angulo de variacao
+  int maxAng=0;//Maior angulo de variacao
   int menorTempo=1;
   int maiorTempo=500;
 
