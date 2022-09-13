@@ -204,10 +204,10 @@ void lerSensores() {
   obterAngulos();
 }
 void gerarComandosAleatorios() {
-  int minAng=-60;//Menor angulo de variacao
-  int maxAng=60;//Maior angulo de variacao
-  int menorTempo=0;
-  int maiorTempo=100;
+  int minAng=-15;//Menor angulo de variacao
+  int maxAng=15;//Maior angulo de variacao
+  int menorTempo=10;
+  int maiorTempo=500;
 
 int posicaoEstavel[12]={90,90,90,90,90,90,90,90,90,90,90,90};
  for(int i=0;i<12;i++){

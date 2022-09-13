@@ -60,9 +60,9 @@
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.label13 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox1.SuspendLayout();
             this.mnApp.SuspendLayout();
             this.tabControl1.SuspendLayout();
@@ -331,7 +331,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(1175, 430);
+            this.tabPage1.Size = new System.Drawing.Size(1175, 512);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Monitor Serial";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -344,6 +344,7 @@
             this.label13.Size = new System.Drawing.Size(10, 13);
             this.label13.TabIndex = 23;
             this.label13.Text = "-";
+            this.label13.Click += new System.EventHandler(this.label13_Click_1);
             // 
             // tabPage2
             // 
@@ -356,26 +357,6 @@
             this.tabPage2.Text = "Giroscópio acelerômetro";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
-            // tabPage3
-            // 
-            this.tabPage3.Location = new System.Drawing.Point(4, 22);
-            this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage3.Size = new System.Drawing.Size(1175, 430);
-            this.tabPage3.TabIndex = 2;
-            this.tabPage3.Text = "Sensor Ultrassônico";
-            this.tabPage3.UseVisualStyleBackColor = true;
-            // 
-            // tabPage4
-            // 
-            this.tabPage4.Location = new System.Drawing.Point(4, 22);
-            this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage4.Size = new System.Drawing.Size(1175, 430);
-            this.tabPage4.TabIndex = 3;
-            this.tabPage4.Text = "Temperatura";
-            this.tabPage4.UseVisualStyleBackColor = true;
-            // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::App23.Properties.Resources.Movimento1;
@@ -385,6 +366,26 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click_1);
+            // 
+            // tabPage3
+            // 
+            this.tabPage3.Location = new System.Drawing.Point(4, 22);
+            this.tabPage3.Name = "tabPage3";
+            this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage3.Size = new System.Drawing.Size(1175, 512);
+            this.tabPage3.TabIndex = 2;
+            this.tabPage3.Text = "Sensor Ultrassônico";
+            this.tabPage3.UseVisualStyleBackColor = true;
+            // 
+            // tabPage4
+            // 
+            this.tabPage4.Location = new System.Drawing.Point(4, 22);
+            this.tabPage4.Name = "tabPage4";
+            this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage4.Size = new System.Drawing.Size(1175, 512);
+            this.tabPage4.TabIndex = 3;
+            this.tabPage4.Text = "Temperatura";
+            this.tabPage4.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
