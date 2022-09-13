@@ -121,19 +121,25 @@
   <data name="FornoElétrico1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\FornoElétrico1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="FornoElétrico" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\FornoElétrico.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Reservatório1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Reservatório1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Reservatório" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Reservatório.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="FornoElétrico" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FornoElétrico.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Movimento" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Movimento.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="FornoElétricoDesligado" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\FornoElétricoDesligado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Reservatório1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Reservatório1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="FornoElétricoLigado" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\FornoElétricoLigado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Movimento1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Movimento1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

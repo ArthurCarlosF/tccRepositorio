@@ -168,6 +168,21 @@ while((millis()-tempoInicioDelay)<tempoDelay){
 }
   
 }
+String lerSerial(){
+  String leituraSerial="";
+  bool mensagemRecebida=false;
+  while (Serial.available() > 0) {
+    // lê do buffer o dado recebido:
+       char c = Serial.read();
+       leituraSerial+=c;
+       
+mensagemRecebida=true;
+  }
+  if(mensagemRecebida){
+  Serial.println("Mensagem recebida: "+ leituraSerial);
+  }
+  return leituraSerial;
+}
 void lerSensores() {
   #define debug false
 

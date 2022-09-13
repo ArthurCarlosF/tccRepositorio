@@ -102,6 +102,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ProgressBars.Basic.dll" />
+    <None Include="Resources\Movimento1.png" />
+    <None Include="Resources\Movimento.png" />
     <None Include="Resources\FornoElétricoLigado.png" />
     <None Include="Resources\FornoElétricoDesligado.png" />
     <None Include="Resources\FornoElétrico1.png" />

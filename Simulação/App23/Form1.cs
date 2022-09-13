@@ -175,13 +175,22 @@ namespace App23
             this.Invoke(new EventHandler(trataDadoRecebido));
 
         }
-
+        List<string> listaDados = new List<string>();
         private void trataDadoRecebido(object sender, EventArgs e)
         {
 
             txt_Rec += RxString;
-            label13.Text += txt_Rec;
-            txt_Rec = string.Empty;
+           // label13.Text = txt_Rec;
+            // txt_Rec = string.Empty;
+
+            if (txt_Rec.IndexOf("}") != -1)
+            {
+                String novaLinha = txt_Rec;
+                label13.Text = "N T EM1 EM2 EM3 EM4 EM5 EM6 EM7 EM8 EM9 EM10 EM11 EM12 CM1 CM2 CM3 CM4 CM5 CM6 CM7 CM8 CM9 CM10 CM11 CM12 GyX GyY GyZ AcX AcY AcZ Tmp HCSR X Y Z \n";
+                label13.Text += novaLinha;
+                txt_Rec = string.Empty;
+                listaDados.Add(novaLinha);
+            }
             
         }
 
@@ -337,6 +346,11 @@ namespace App23
         }
 
         private void label13_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click_1(object sender, EventArgs e)
         {
 
         }

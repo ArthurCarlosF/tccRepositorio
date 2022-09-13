@@ -58,14 +58,17 @@
             this.openFile = new System.Windows.Forms.OpenFileDialog();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
             this.label13 = new System.Windows.Forms.Label();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.tabPage4 = new System.Windows.Forms.TabPage();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox1.SuspendLayout();
             this.mnApp.SuspendLayout();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
+            this.tabPage2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -248,7 +251,7 @@
             this.arquivoToolStripMenuItem});
             this.mnApp.Location = new System.Drawing.Point(0, 0);
             this.mnApp.Name = "mnApp";
-            this.mnApp.Size = new System.Drawing.Size(790, 24);
+            this.mnApp.Size = new System.Drawing.Size(1161, 24);
             this.mnApp.TabIndex = 5;
             this.mnApp.Text = "menuStrip1";
             // 
@@ -319,7 +322,7 @@
             this.tabControl1.Location = new System.Drawing.Point(0, 141);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(790, 456);
+            this.tabControl1.Size = new System.Drawing.Size(1183, 538);
             this.tabControl1.TabIndex = 23;
             // 
             // tabPage1
@@ -328,20 +331,10 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(782, 430);
+            this.tabPage1.Size = new System.Drawing.Size(1175, 430);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Monitor Serial";
             this.tabPage1.UseVisualStyleBackColor = true;
-            // 
-            // tabPage2
-            // 
-            this.tabPage2.Location = new System.Drawing.Point(4, 22);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(782, 430);
-            this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "Giroscópio acelerômetro";
-            this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // label13
             // 
@@ -352,12 +345,23 @@
             this.label13.TabIndex = 23;
             this.label13.Text = "-";
             // 
+            // tabPage2
+            // 
+            this.tabPage2.Controls.Add(this.pictureBox1);
+            this.tabPage2.Location = new System.Drawing.Point(4, 22);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(1175, 512);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "Giroscópio acelerômetro";
+            this.tabPage2.UseVisualStyleBackColor = true;
+            // 
             // tabPage3
             // 
             this.tabPage3.Location = new System.Drawing.Point(4, 22);
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage3.Size = new System.Drawing.Size(782, 430);
+            this.tabPage3.Size = new System.Drawing.Size(1175, 430);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "Sensor Ultrassônico";
             this.tabPage3.UseVisualStyleBackColor = true;
@@ -367,16 +371,26 @@
             this.tabPage4.Location = new System.Drawing.Point(4, 22);
             this.tabPage4.Name = "tabPage4";
             this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage4.Size = new System.Drawing.Size(782, 430);
+            this.tabPage4.Size = new System.Drawing.Size(1175, 430);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "Temperatura";
             this.tabPage4.UseVisualStyleBackColor = true;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::App23.Properties.Resources.Movimento1;
+            this.pictureBox1.Location = new System.Drawing.Point(227, 2);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(704, 510);
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click_1);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(790, 596);
+            this.ClientSize = new System.Drawing.Size(1161, 691);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.btnFinaliza);
             this.Controls.Add(this.btnInicia);
@@ -397,6 +411,8 @@
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
+            this.tabPage2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -437,6 +453,7 @@
         private System.Windows.Forms.TabPage tabPage2;
         private System.Windows.Forms.TabPage tabPage3;
         private System.Windows.Forms.TabPage tabPage4;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 
