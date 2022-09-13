@@ -12,7 +12,7 @@ long int tempo = 0;
 
 
 int estadosMotores[12] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}; //Estados atuais dos motores
-int comandosMotores[12] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}; //Comandos atuais para os motores
+int comandosMotores[12] = {90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90}; //Comandos atuais para os motores
 float sensores[8] = {0, 0, 0, 0, 0, 0,0,0 }; //Medicoes dos sensores{EIX,EIY,EIZ,EAX,EAY,EAZ,ED}
 float angulo[3]={0,0,0};
 float posicao[3]={0,0,0};
@@ -31,14 +31,46 @@ void lerServos(){
 }
 void Delay(long int tempoDelay);
 void comandarServos(){
-  
+  #define maiorMovimentoPossivel 5//Definir 180 para que não haja limite
   for(int i=0;i<12;i++){
+
+    if(comandosMotores[i]<(estadosMotores[i])){
+      if((estadosMotores[i]-comandosMotores[i])>maiorMovimentoPossivel){
+        servos[i].write(estadosMotores[i]-maiorMovimentoPossivel);
+      }else{
+        servos[i].write(comandosMotores[i]);
+      }
+
+      
+    }
     
-    servos[i].write(comandosMotores[i]);
-  }
+  if(comandosMotores[i]>(estadosMotores[i])){
+      if((comandosMotores[i]-estadosMotores[i])>maiorMovimentoPossivel){
+        servos[i].write(estadosMotores[i]+maiorMovimentoPossivel);
+      }else{
+        servos[i].write(comandosMotores[i]);
+      }
+
+      
+    }
+    
+}
   Delay(delayMotores);
 }
-const int MPU=0x68;  
+const int MPU=0x68;
+
+
+float tratarAngulo(float angulo){
+
+
+ while(angulo<-180){
+  angulo=angulo+360.00;
+ }
+ while(angulo>180){
+  angulo=angulo-360.00;
+ }
+ return angulo;
+}
 void lerGiroscopioAcelerometro(){
   //Endereco I2C do MPU6050
 
@@ -109,14 +141,20 @@ float radToDeg=180.00000/pi;
 }
 MPU6050 mpu6050(Wire);
 void obterAngulos(){
-  #define offsetX -174.20
-  #define offsetY 168.00
-  #define offsetZ -2.35
-    
+  #define offsetX -179.37
+  #define offsetY  -171.47
+  #define offsetZ 30.68 
+//  #define offsetX 0
+//  #define offsetY 0
+//  #define offsetZ 0
+
+ 
   mpu6050.update();
-  angulo[0]=mpu6050.getAngleX()-offsetX;
-  angulo[1]=mpu6050.getAngleY()-offsetY;
-  angulo[2]=mpu6050.getAngleZ()-offsetZ;
+  angulo[0]=tratarAngulo(mpu6050.getAngleX()-offsetX);
+  angulo[1]=tratarAngulo(mpu6050.getAngleY()-offsetY);
+  angulo[2]=tratarAngulo(mpu6050.getAngleZ()-offsetZ);
+  
+
   
     
 
@@ -151,14 +189,15 @@ void lerSensores() {
   obterAngulos();
 }
 void gerarComandosAleatorios() {
-  int minAng=0;//Menor angulo de variacao
-  int maxAng=0;//Maior angulo de variacao
-  int menorTempo=1;
-  int maiorTempo=500;
+  int minAng=-60;//Menor angulo de variacao
+  int maxAng=60;//Maior angulo de variacao
+  int menorTempo=0;
+  int maiorTempo=100;
 
 int posicaoEstavel[12]={90,90,90,90,90,90,90,90,90,90,90,90};
  for(int i=0;i<12;i++){
     comandosMotores[i]=posicaoEstavel[i]+random(minAng, maxAng);
+
     //construir função que gera delay
     
   }

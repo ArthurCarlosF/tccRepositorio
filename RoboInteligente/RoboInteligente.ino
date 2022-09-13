@@ -10,7 +10,7 @@ long int contaLoops=0;
     
     
     void printCabecalho(){
-      Serial.println("N T EM1 EM2 EM3 EM4 EM5 EM6 EM7 EM8 EM9 EM10 EM11 EM12 CM1 CM2 CM3 CM4 CM5 CM6 CM7 CM8 CM9 CM10 CM11 CM12 GyX GyY GyZ AcX AcY AcZ Tmp HCSR ");
+      Serial.println("N T EM1 EM2 EM3 EM4 EM5 EM6 EM7 EM8 EM9 EM10 EM11 EM12 CM1 CM2 CM3 CM4 CM5 CM6 CM7 CM8 CM9 CM10 CM11 CM12 GyX GyY GyZ AcX AcY AcZ Tmp HCSR X Y Z");
     }
     void print() {
       Serial.print(this->contaLoops);
@@ -59,6 +59,9 @@ long int contaLoops=0;
     }
     void Setup(){
       this->printCabecalho();
+      lerSensores();
+      Serial.println("Fazendo a primeira leitura");
+      delay(5000);
     }
     
 };
@@ -168,10 +171,10 @@ mpu.setAccelerometerRange(MPU6050_RANGE_8_G);
   }
 
   Serial.println("");
-  delay(100);
+ // delay(100);
   Serial.println("Robo Inteligente Iniciado");
   mpu6050.begin();
-  mpu6050.calcGyroOffsets(true);
+  //mpu6050.calcGyroOffsets(true);
   modoColherDados.Setup();
 }
 
