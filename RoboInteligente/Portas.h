@@ -31,7 +31,7 @@ void lerServos(){
 }
 void Delay(long int tempoDelay);
 void comandarServos(){
-  #define maiorMovimentoPossivel 5//Definir 180 para que não haja limite
+  #define maiorMovimentoPossivel 1//Definir 180 para que não haja limite
   for(int i=0;i<12;i++){
 
     if(comandosMotores[i]<(estadosMotores[i])){
@@ -55,7 +55,7 @@ void comandarServos(){
     }
     
 }
-  Delay(delayMotores);
+ // Delay(delayMotores);
 }
 const int MPU=0x68;
 
@@ -203,9 +203,13 @@ void lerSensores() {
   lerGiroscopioAcelerometro();
   obterAngulos();
 }
+
+long int tempoInicial=0;
 void gerarComandosAleatorios() {
-  int minAng=-15;//Menor angulo de variacao
-  int maxAng=15;//Maior angulo de variacao
+
+  if((millis()-tempoInicial)>delayMotores){
+  int minAng=-90;//Menor angulo de variacao
+  int maxAng=90;//Maior angulo de variacao
   int menorTempo=10;
   int maiorTempo=500;
 
@@ -218,4 +222,6 @@ int posicaoEstavel[12]={90,90,90,90,90,90,90,90,90,90,90,90};
   }
 
   delayMotores=random(menorTempo, maiorTempo);
+  tempoInicial=millis();
+  }
 }

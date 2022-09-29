@@ -3,8 +3,11 @@
 
 
 
-class ModoColherDados {
 
+
+class ModoColherDados {
+long int tempoUltimoPrint=millis();
+#define intervaloPrint 50
   private:
 long int contaLoops=0;
     
@@ -13,6 +16,7 @@ long int contaLoops=0;
       Serial.println("N T EM1 EM2 EM3 EM4 EM5 EM6 EM7 EM8 EM9 EM10 EM11 EM12 CM1 CM2 CM3 CM4 CM5 CM6 CM7 CM8 CM9 CM10 CM11 CM12 GyX GyY GyZ AcX AcY AcZ Tmp HCSR X Y Z");
     }
     void print() {
+      if((millis()-tempoUltimoPrint)>intervaloPrint){
       Serial.print("{");
       Serial.print(this->contaLoops);
       Serial.print(" ");
@@ -36,6 +40,8 @@ long int contaLoops=0;
         Serial.print(" ");
       }
       Serial.println("}");
+      tempoUltimoPrint=millis();
+      }
     }
 
     
