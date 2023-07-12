@@ -175,7 +175,7 @@ String lerSerial(){
 mensagemRecebida=true;
   }
   if(mensagemRecebida){
-  Serial.println("Mensagem recebida: "+ leituraSerial);
+//  Serial.println("Mensagem recebida: "+ leituraSerial);
   }
   return leituraSerial;
 }
@@ -215,6 +215,33 @@ int posicaoEstavel[12]={90,90,90,90,90,90,90,90,90,90,90,90};
     //construir função que gera delay
     
   }
+
+  delayMotores=random(menorTempo, maiorTempo);
+  tempoInicial=millis();
+  }
+}
+
+void obterComandos(String mensagem) {
+
+
+ 
+
+  
+  if((millis()-tempoInicial)>delayMotores){
+  int menorTempo=10;//Menor tempo entre os comandos
+  int maiorTempo=500;//Maior tempo entre os comandos
+
+  int comandosObtidos=0;
+  while(comandosObtidos<12){
+    int indexOfSpace=mensagem.indexOf(" ");
+    String comandoStr=mensagem.substring(0,indexOfSpace);
+    String vazio="";
+    mensagem=mensagem.substring(indexOfSpace+1,mensagem.length());
+    comandosMotores[comandosObtidos]=comandoStr.toFloat();
+    comandosObtidos++;
+  }
+  
+
 
   delayMotores=random(menorTempo, maiorTempo);
   tempoInicial=millis();

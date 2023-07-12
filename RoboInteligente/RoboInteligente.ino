@@ -69,10 +69,78 @@ long int contaLoops=0;
     
 };
 
+class ModoControleNeural {
+long int tempoUltimoPrint=millis();
+#define intervaloPrint 50
+  private:
+long int contaLoops=0;
+    
+    
+    void printCabecalho(){
+      Serial.println("N T EM1 EM2 EM3 EM4 EM5 EM6 EM7 EM8 EM9 EM10 EM11 EM12 CM1 CM2 CM3 CM4 CM5 CM6 CM7 CM8 CM9 CM10 CM11 CM12 GyX GyY GyZ AcX AcY AcZ Tmp HCSR X Y Z");
+    }
+    void print() {
+      if((millis()-tempoUltimoPrint)>intervaloPrint){
+      Serial.print("{");
+      Serial.print(this->contaLoops);
+      Serial.print(" ");
+      Serial.print(tempo);
+      Serial.print(" ");
+      for (int i = 0; i < 12; i++) {
+        Serial.print(estadosMotores[i]);
+        Serial.print(" ");
+      }
+      for (int i = 0; i < 12; i++) {
+        Serial.print(comandosMotores[i]);
+        Serial.print(" ");
+      }
+      for (int i = 0; i < 8; i++) {
+        Serial.print(sensores[i]);
+        Serial.print(" ");
+      }
 
+      for (int i = 0; i < 3; i++) {
+        Serial.print(angulo[i]);
+        Serial.print(" ");
+      }
+      Serial.println("}");
+      tempoUltimoPrint=millis();
+      }
+    }
+
+  public:
+    void Loop() {
+      #define debug false
+
+      if(debug){
+        Serial.println("Lendo sensores");
+      }
+      lerSensores();
+      if(debug){
+        Serial.println("gerando comandos");
+      }
+      String mensagem=lerSerial();
+      
+      obterComandos(mensagem);
+      if(debug){
+        Serial.println("Comandando servos");
+      }
+      comandarServos();
+      this->print();
+      this->contaLoops++;
+      
+    }
+    void Setup(){
+      this->printCabecalho();
+      lerSensores();
+     // Serial.println("Fazendo a primeira leitura");
+      delay(5000);
+    }
+    
+};
 
 ModoColherDados modoColherDados;
-
+ModoControleNeural modoControleNeural;
 
 void setup() {
   // put your setup code here, to run once:
@@ -178,12 +246,15 @@ mpu.setAccelerometerRange(MPU6050_RANGE_8_G);
   Serial.println("Robo Inteligente Iniciado");
   mpu6050.begin();
   //mpu6050.calcGyroOffsets(true);
-  modoColherDados.Setup();
+  //modoColherDados.Setup();
+  modoControleNeural.Setup();
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
   //Serial.println("Loop");
-  modoColherDados.Loop();
+ // modoColherDados.Loop();
+  
+  modoControleNeural.Loop();
 
 }
