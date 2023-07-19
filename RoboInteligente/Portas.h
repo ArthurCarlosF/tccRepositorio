@@ -176,8 +176,11 @@ mensagemRecebida=true;
   }
   if(mensagemRecebida){
 //  Serial.println("Mensagem recebida: "+ leituraSerial);
-  }
   return leituraSerial;
+  }else{
+    return "nenhumaMensagem";
+  }
+  
 }
 void lerSensores() {
   #define debug false
@@ -222,23 +225,26 @@ int posicaoEstavel[12]={90,90,90,90,90,90,90,90,90,90,90,90};
 }
 
 void obterComandos(String mensagem) {
-
-
+long int tempoInicial=millis();
+long int timeOut=2000;
  
 
-  
-  if((millis()-tempoInicial)>delayMotores){
+  if(mensagem.indexOf("nenhumaMensagem")<0){
+      if((millis()-tempoInicial)>delayMotores){
   int menorTempo=10;//Menor tempo entre os comandos
   int maiorTempo=500;//Maior tempo entre os comandos
 
   int comandosObtidos=0;
-  while(comandosObtidos<12){
+  while(comandosObtidos<12 && mensagem.indexOf(" ")!=-1 &&((millis()-tempoInicial)<timeOut)){
     int indexOfSpace=mensagem.indexOf(" ");
     String comandoStr=mensagem.substring(0,indexOfSpace);
     String vazio="";
     mensagem=mensagem.substring(indexOfSpace+1,mensagem.length());
-    comandosMotores[comandosObtidos]=comandoStr.toFloat();
+    if(indexOfSpace>0){
+      comandosMotores[comandosObtidos]=comandoStr.toFloat();
     comandosObtidos++;
+    }
+    
   }
   
 
@@ -246,4 +252,9 @@ void obterComandos(String mensagem) {
   delayMotores=random(menorTempo, maiorTempo);
   tempoInicial=millis();
   }
+    
+  }
+
+  
+
 }
