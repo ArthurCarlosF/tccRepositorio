@@ -33,13 +33,19 @@ void lerServos(){
 void comandarServos(){
   #define maiorMovimentoPossivel 1//Definir 180 para que não haja limite
   for(int i=0;i<12;i++){
+
     if(comandosMotores[i]!=estadosMotores[i]){
+      delay(100);
           if(comandosMotores[i]<(estadosMotores[i])){
-      if((estadosMotores[i]-comandosMotores[i])>maiorMovimentoPossivel){
-        servos[i].write(estadosMotores[i]-maiorMovimentoPossivel);
-      }else{
-        servos[i].write(comandosMotores[i]);
-      }
+          
+            
+            if((estadosMotores[i]-comandosMotores[i])>maiorMovimentoPossivel){
+              servos[i].write(estadosMotores[i]-maiorMovimentoPossivel);
+            }else{
+              servos[i].write(comandosMotores[i]);
+            }
+
+            
 
       
     }
@@ -171,11 +177,11 @@ String lerSerial(){
     // lê do buffer o dado recebido:
        char c = Serial.read();
        leituraSerial+=c;
-       
+       delay(1);
 mensagemRecebida=true;
   }
   if(mensagemRecebida){
-//  Serial.println("Mensagem recebida: "+ leituraSerial);
+  Serial.println("Mensagem recebida: "+ leituraSerial);
   return leituraSerial;
   }else{
     return "nenhumaMensagem";
@@ -227,10 +233,34 @@ int posicaoEstavel[12]={90,90,90,90,90,90,90,90,90,90,90,90};
 void obterComandos(String mensagem) {
 long int tempoInicial=millis();
 long int timeOut=2000;
- 
+if(mensagem.indexOf("nenhumaMensagem")!=-1){
+  return;
+}
 
-  if(mensagem.indexOf("nenhumaMensagem")<0){
-      if((millis()-tempoInicial)>delayMotores){
+ int inicioMensagem=mensagem.indexOf("{");
+ int fimMensagem=mensagem.indexOf("}");
+ 
+  if(inicioMensagem==-1 || fimMensagem==-1){
+    Serial.println("Feedback: Formato inválido");
+    return;
+  }
+  if(inicioMensagem>fimMensagem){//Verifica se existe um pedaço de mensagem no buffer
+    mensagem=mensagem.substring(mensagem.indexOf("{"));//Retire o pedaço do buffer a ser ignorado
+    if(inicioMensagem==-1 || fimMensagem==-1){//verifica se ainda existe uma mensagem completa
+      Serial.println("Feedback: Formato inválido");
+    return;
+  }
+  
+    
+    
+  }
+  Serial.println("Feedback: "+mensagem);
+  mensagem=mensagem.substring(mensagem.indexOf("{"),mensagem.indexOf("}")+1);//obtem apenas a parte que interessa
+  Serial.println("(Feedback) Mensagem tratada:"+mensagem);
+  mensagem.replace("{"," ");
+  mensagem.replace("}"," ");
+  
+
   int menorTempo=10;//Menor tempo entre os comandos
   int maiorTempo=500;//Maior tempo entre os comandos
 
@@ -239,7 +269,7 @@ long int timeOut=2000;
     int indexOfSpace=mensagem.indexOf(" ");
     String comandoStr=mensagem.substring(0,indexOfSpace);
     String vazio="";
-    mensagem=mensagem.substring(indexOfSpace+1,mensagem.length());
+    mensagem=mensagem.substring(indexOfSpace+1);
     if(indexOfSpace>0){
       comandosMotores[comandosObtidos]=comandoStr.toFloat();
     comandosObtidos++;
@@ -251,9 +281,9 @@ long int timeOut=2000;
 
   delayMotores=random(menorTempo, maiorTempo);
   tempoInicial=millis();
-  }
+  
     
-  }
+  
 
   
 
