@@ -32,10 +32,11 @@ void lerServos(){
 
 void comandarServos(){
   #define maiorMovimentoPossivel 1//Definir 180 para que não haja limite
+  
   for(int i=0;i<12;i++){
-
+    delay(1);
     if(comandosMotores[i]!=estadosMotores[i]){
-      delay(100);
+      
           if(comandosMotores[i]<(estadosMotores[i])){
           
             
@@ -81,6 +82,8 @@ float tratarAngulo(float angulo){
  return angulo;
 }
 void lerGiroscopioAcelerometro(){
+   // Aguarda 300 ms e reinicia o processo
+ // delay(1000);
   //Endereco I2C do MPU6050
 
  // int AcX,AcY,AcZ,Tmp,GyX,GyY,GyZ;
@@ -145,8 +148,7 @@ float radToDeg=180.00000/pi;
   sensores[5]=(a.acceleration.z)+10.36518987;
   sensores[6]=temp.temperature;
  
-  //Aguarda 300 ms e reinicia o processo
- // delay(300);
+
 }
 MPU6050 mpu6050(Wire);
 void obterAngulos(){
@@ -183,6 +185,7 @@ mensagemRecebida=true;
   if(mensagemRecebida){
   Serial.println("Mensagem recebida: "+ leituraSerial);
   return leituraSerial;
+
   }else{
     return "nenhumaMensagem";
   }
@@ -205,6 +208,7 @@ void lerSensores() {
         if(debug){
     Serial.println("Lendo giroscopio e acelerometro");
   }
+  
   lerGiroscopioAcelerometro();
   obterAngulos();
 }
