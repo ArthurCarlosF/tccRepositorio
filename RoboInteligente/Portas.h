@@ -34,7 +34,7 @@ void comandarServos(){
   #define maiorMovimentoPossivel 1//Definir 180 para que não haja limite
   
   for(int i=0;i<12;i++){
-    delay(1);
+    delay(12);
     if(comandosMotores[i]!=estadosMotores[i]){
       
           if(comandosMotores[i]<(estadosMotores[i])){
