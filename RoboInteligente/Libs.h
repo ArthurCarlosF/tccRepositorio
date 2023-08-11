@@ -2,3 +2,4 @@
 #include <Servo.h>
 #include <Ultrasonic.h>
 #include "Portas.h"
+#include <avr/wdt.h>

@@ -143,6 +143,17 @@ ModoColherDados modoColherDados;
 ModoControleNeural modoControleNeural;
 
 void setup() {
+//WDTO_15MS
+//WDTO_30MS
+//WDTO_60MS
+//WDTO_120MS
+//WDTO_250MS
+//WDTO_500MS
+//WDTO_1S
+//WDTO_2S
+//WDTO_4S
+//WDTO_8S
+  wdt_enable(WDTO_8S);
   // put your setup code here, to run once:
   Serial.begin(9600);
   //Inicializa o MPU-6050
@@ -256,5 +267,6 @@ void loop() {
  // modoColherDados.Loop();
   
   modoControleNeural.Loop();
-
+ // Alimentar o watchdog para evitar o reset
+  wdt_reset();
 }

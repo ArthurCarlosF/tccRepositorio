@@ -31,7 +31,7 @@ void lerServos(){
 }
 
 void comandarServos(){
-  #define maiorMovimentoPossivel 1//Definir 180 para que não haja limite
+  #define maiorMovimentoPossivel 10//Definir 180 para que não haja limite
   
   for(int i=0;i<12;i++){
     delay(12);
@@ -140,21 +140,21 @@ float radToDeg=180.00000/pi;
 
 
 
-  sensores[0]=(g.gyro.x+0.151155351-(6.000/radToDeg))*radToDeg;
-  sensores[1]=(g.gyro.y+(-0.014556962))*radToDeg;
-  sensores[2]=(g.gyro.z+(-0.020506329))*radToDeg;
-  sensores[3]=(a.acceleration.x)+0.197531646;
-  sensores[4]=(a.acceleration.y)+1.222341772;
-  sensores[5]=(a.acceleration.z)+10.36518987;
+  sensores[0]=(g.gyro.x)*radToDeg;
+  sensores[1]=(g.gyro.y)*radToDeg;
+  sensores[2]=(g.gyro.z)*radToDeg;
+  sensores[3]=(a.acceleration.x);
+  sensores[4]=(a.acceleration.y);
+  sensores[5]=(a.acceleration.z);
   sensores[6]=temp.temperature;
  
 
 }
 MPU6050 mpu6050(Wire);
 void obterAngulos(){
-  #define offsetX -179.37
-  #define offsetY  -171.47
-  #define offsetZ 30.68 
+  #define offsetX 171.91
+  #define offsetY -170.35
+  #define offsetZ 139.29
 //  #define offsetX 0
 //  #define offsetY 0
 //  #define offsetZ 0

@@ -1,0 +1,2070 @@
+________________INICIO________________________
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
+Abrindo variavel compartilhada...:Deu certo!
+Abrindo Controlador...:Deu certo!
+Lendo arduino...:Deu certo!
