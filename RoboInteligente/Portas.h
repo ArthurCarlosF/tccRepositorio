@@ -31,10 +31,9 @@ void lerServos(){
 }
 
 void comandarServos(){
-  #define maiorMovimentoPossivel 10//Definir 180 para que não haja limite
+  #define maiorMovimentoPossivel 1//Definir 180 para que não haja limite
   
   for(int i=0;i<12;i++){
-    delay(12);
     if(comandosMotores[i]!=estadosMotores[i]){
       
           if(comandosMotores[i]<(estadosMotores[i])){
@@ -179,11 +178,11 @@ String lerSerial(){
     // lê do buffer o dado recebido:
        char c = Serial.read();
        leituraSerial+=c;
-       delay(1);
+   
 mensagemRecebida=true;
   }
   if(mensagemRecebida){
-  Serial.println("Mensagem recebida: "+ leituraSerial);
+//  Serial.println("Mensagem recebida: "+ leituraSerial);
   return leituraSerial;
 
   }else{
@@ -245,22 +244,22 @@ if(mensagem.indexOf("nenhumaMensagem")!=-1){
  int fimMensagem=mensagem.indexOf("}");
  
   if(inicioMensagem==-1 || fimMensagem==-1){
-    Serial.println("Feedback: Formato inválido");
+//    Serial.println("Feedback: Formato inválido");
     return;
   }
   if(inicioMensagem>fimMensagem){//Verifica se existe um pedaço de mensagem no buffer
     mensagem=mensagem.substring(mensagem.indexOf("{"));//Retire o pedaço do buffer a ser ignorado
     if(inicioMensagem==-1 || fimMensagem==-1){//verifica se ainda existe uma mensagem completa
-      Serial.println("Feedback: Formato inválido");
+//      Serial.println("Feedback: Formato inválido");
     return;
   }
   
     
     
   }
-  Serial.println("Feedback: "+mensagem);
+//  Serial.println("Feedback: "+mensagem);
   mensagem=mensagem.substring(mensagem.indexOf("{"),mensagem.indexOf("}")+1);//obtem apenas a parte que interessa
-  Serial.println("(Feedback) Mensagem tratada:"+mensagem);
+//  Serial.println("(Feedback) Mensagem tratada:"+mensagem);
   mensagem.replace("{"," ");
   mensagem.replace("}"," ");
   

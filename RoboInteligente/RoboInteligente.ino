@@ -64,7 +64,7 @@ long int contaLoops=0;
       this->printCabecalho();
       lerSensores();
      // Serial.println("Fazendo a primeira leitura");
-      delay(5000);
+
     }
     
 };
@@ -134,7 +134,7 @@ long int contaLoops=0;
       this->printCabecalho();
       lerSensores();
      // Serial.println("Fazendo a primeira leitura");
-      delay(5000);
+
     }
     
 };
