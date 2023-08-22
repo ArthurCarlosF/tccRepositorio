@@ -256,7 +256,7 @@ mpu.setAccelerometerRange(MPU6050_RANGE_8_G);
  // delay(100);
   Serial.println("Robo Inteligente Iniciado");
   mpu6050.begin();
-  //mpu6050.calcGyroOffsets(true);
+//  mpu6050.calcGyroOffsets(true);
   //modoColherDados.Setup();
   modoControleNeural.Setup();
 }
